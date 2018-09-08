@@ -1,0 +1,22 @@
+{
+  "name": "globaltest",
+  "version": "1.0.0",
+  "description": "a repo for testing syntax, new features, concepts, .etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lzystrike/globalTest.git"
+  },
+  "author": "lyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lzystrike/globalTest/issues"
+  },
+  "homepage": "https://github.com/Lzystrike/globalTest#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
